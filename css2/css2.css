@@ -1,23 +1,27 @@
 body{
-background-color: black;
+  background-color: black;
 }
+
 table{
-background-color: #474747;
-border-radius: 20px;
-margin: 0 auto;
+  background-color: #474747;
+  border-radius: 20px;
+  margin: 0 auto;
 }
+
 td{
-color: white;
-font-size: 20px;
-padding:2px;
+  color: white;
+  font-size: 20px;
+  padding:2px;
 }
+
 img{
-height: 150px;
-width: 220px;
-border-radius:35px;
+  height: 150px;
+  width: 220px;
+  border-radius:35px;
 }
+
 td.heading{
-height:40px;
-text-align: center;
-vertical-align: top;
+  height:40px;
+  text-align: center;
+  vertical-align: top;
 }
