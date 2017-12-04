@@ -1,26 +1,32 @@
 table{
-width:480px;
-border-spacing:0px;
+  width:480px;
+  border-spacing:0px;
 }
+
 .red{
-background-color:red;
-height:80px;
+  background-color:red;
+  height:80px;
 }
+
 .green{
-background-color:lime;
-height:15px;
+  background-color:lime;
+  height:15px;
 }
+
 .large{
-height:270px;
+  height:270px;
 }
+
 .blue{
-background-color:blue;
+  background-color:blue;
 }
+
 .cyan{
-background-color:cyan;
+  background-color:cyan;
 }
+
 .yellow{
-background-color:yellow;
-width:220px;
+  background-color:yellow;
+  width:220px;
 }
 
