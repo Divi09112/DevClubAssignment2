@@ -1,5 +1,6 @@
 table{
 width:480px;
+border-spacing:0px;
 }
 .red{
 background-color:red;
