@@ -1,32 +1,36 @@
-table{
-  width:480px;
-  border-spacing:0px;
+#hfirst{
+width:60%;
+margin:auto;
+height: 150px;
+background-color: red;
 }
 
-.red{
-  background-color:red;
-  height:80px;
+#hsecond{
+width:60%;
+margin:auto;
+height: 15px;
+background-color: #42f448;
 }
 
-.green{
-  background-color:lime;
-  height:15px;
+.center{
+width:60%;
+margin:auto;
+height: 480px;
+background-color:yellow;
 }
 
-.large{
-  height:270px;
+#vfirst{
+width:200px;
+height:100%;
+float:left;
+background-color: blue;
 }
 
-.blue{
-  background-color:blue;
+#vsecond{
+float:right;
+background-color: #41f4f4;
+width:200px;
+height:inherit;
 }
 
-.cyan{
-  background-color:cyan;
-}
-
-.yellow{
-  background-color:yellow;
-  width:220px;
-}
 
