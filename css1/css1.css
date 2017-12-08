@@ -1,36 +1,36 @@
 #hfirst{
-width:60%;
-margin:auto;
-height: 150px;
-background-color: red;
+  width:60%;
+  margin:auto;
+  height: 150px;
+  background-color: red;
 }
 
 #hsecond{
-width:60%;
-margin:auto;
-height: 15px;
-background-color: #42f448;
+  width:60%;
+  margin:auto;
+  height: 15px;
+  background-color: #42f448;
 }
 
 .center{
-width:60%;
-margin:auto;
-height: 480px;
-background-color:yellow;
+  width:60%;
+  margin:auto;
+  height: 480px;
+  background-color:yellow;
 }
 
 #vfirst{
-width:200px;
-height:100%;
-float:left;
-background-color: blue;
+  width:200px;
+  height:100%;
+  float:left;
+  background-color: blue;
 }
 
 #vsecond{
-float:right;
-background-color: #41f4f4;
-width:200px;
-height:inherit;
+  float:right;
+  background-color: #41f4f4;
+  width:200px;
+  height:inherit;
 }
 
 
