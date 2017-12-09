@@ -1,19 +1,19 @@
 <!DOCTYPE html>
+
 <html>
   <head>
     <title>ToDo</title>
-    <link href='cssjs1.css' rel='stylesheet' type='text/css'></link>
+    <link href="cssjs1.css" type="text/css" rel="stylesheet">
   </head>
+
   <body>
-    <div class="abc"><span class='heading'>Your todos</span><br /></br>
-      <hr>
-      <input id='task' type='text' />
-      <input type='submit' value='Add' onClick='add()'>
-      <div class="abc2">
-        <ul id='list'>
-          <hr>
-        </ul>
-      </div>
+    <div class="heading">
+      <span>Your ToDos</span><br /><br />
+      <input type="text" id="entry" onkeypress="enter(event)">
+    </div>
+    <div class="list">
+      <ul id="list">
+      </ul>
     </div>
     <script src="js1.js"></script>
   </body>
