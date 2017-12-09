@@ -36,17 +36,16 @@ ul{
   font-size: 18px;
 }
 
-.dark{
+li.dark{
   background-color:#ff691e;
 }
 
-.light{
+li.light{
   background-color: #ff8a1e;
 }
 
 li{
   padding: 8px;
-  transition: 0.3s;
 }
 
 li.clicked{
@@ -54,3 +53,4 @@ li.clicked{
   text-decoration: line-through;
   transition: 0.3s;
 }
+
